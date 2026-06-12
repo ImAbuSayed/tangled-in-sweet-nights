@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-sweet-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tangled In Sweet Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-sweet-nights/) |
+| **Get License** | [Get License For Tangled In Sweet Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-sweet-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight falling soft across the wooden floor
+> I never knew I'd want a single moment more
+> Every single glance is burning up the room
+> Tangled up in shadows underneath the moon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
