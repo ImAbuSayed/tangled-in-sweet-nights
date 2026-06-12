@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tangled-in-sweet-nights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Tangled In Sweet Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-sweet-nights/) |
+| **Get License** | [Obtain a Music License for Tangled In Sweet Nights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tangled-in-sweet-nights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3101)
 
 ---
 
